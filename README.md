@@ -17,6 +17,7 @@ We are an independent game studio focused on creating:
 ## Website
 https://horizongameslnc.github.io/Horizon-Games-Web/
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HorizonGameslnc)
 ---
 
 © 2026 Horizon Games Inc. All rights reserved.
